@@ -1,0 +1,26 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "인프런 - 「생활코딩 - Node.js」 수강 내용을 기록합니다. <br/>\r 2025-01-04 ~",
+  "homepage": "https://github.com/ejcho-dev/nodejs-study-1#readme",
+  "bugs": {
+    "url": "https://github.com/ejcho-dev/nodejs-study-1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejcho-dev/nodejs-study-1.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sanitize-html": "^2.14.0"
+  }
+}
